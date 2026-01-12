@@ -24,8 +24,6 @@ Dataset/
   train.csv
   test.csv
 
----
-
 ## Environment Setup (Anaconda)
 
 Create and activate a conda environment:
@@ -36,8 +34,6 @@ conda activate toxic_env
 pip install -U pip
 pip install numpy pandas scikit-learn matplotlib joblib tqdm
 pip install torch transformers jupyter
-
----
 
 ## Best Results (summary)
 
@@ -57,8 +53,6 @@ Notes:
 |------:|----------------:|-----------------:|----------------:|----------------:|-----------:|-----------:|
 | TF-IDF + OvR Logistic Regression | 0.9094 | 0.0594 | 0.9867 | 0.9826 | 0.7466 | 0.6374 |
 | DistilBERT | 0.8210 | 0.4980 | 0.9812 | 0.9799 | 0.5132 | 0.4144 |
-
----
 
 ## Contents
 
