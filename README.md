@@ -7,8 +7,6 @@ This repository contains our implementation and experiments for toxic comment de
 
 **Authors:** Incze Melinda Henrietta, Trandafir Andreea Raluca
 
----
-
 ## Dataset
 
 The dataset is hosted on Kaggle and is not included in this repository:  
