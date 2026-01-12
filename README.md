@@ -3,7 +3,7 @@
 A comparative NLP project for toxic comment detection using the **Jigsaw Toxic Comment Classification Challenge** dataset.  
 This project compares **TF-IDF + Logistic Regression** baselines with **DistilBERT** fine-tuning for both **binary** and **multi-label** toxicity classification.
 
-**Authors:** Incze Melinda Henrietta, Trandafir Andreea Raluca
+**Authors:** Incze Melinda Henrietta, Trandafir Raluca Andreea
 
 ---
 
